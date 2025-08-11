@@ -1,4 +1,4 @@
-Projeto Sprint 7: Análise de Corridas de Taxi em Chicago - Zuber
+Análise de Corridas de Taxi em Chicago - Zuber
 
 📅 Contexto
 
@@ -71,6 +71,7 @@ jupyter notebook notebooks/zuber_analysis.ipynb
 1. Flash Cab e Taxi Affiliation Services lideram em volume de corridas.
 2. O clima tem um impacto sutil, mas identificável, na duração das viagens entre bairros.
 3. Os destinos mais frequentes ajudam a entender a logística urbana e demanda.
+
 
 
 
