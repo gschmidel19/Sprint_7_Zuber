@@ -1,4 +1,4 @@
-# Projeto Sprint 7 — Zuber
+#  Análise de dados do comportamento de usuários no aplicativo Zuber
 
 Análise de dados do comportamento de usuários no aplicativo Zuber, uma nova empresa de compartilhamento de caronas em Chicago. O projeto tem como foco identificar gargalos no funil de conversão e avaliar se uma mudança na fonte de aquisição impactou as taxas de conversão.
 
